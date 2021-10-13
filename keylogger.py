@@ -39,3 +39,4 @@ with Listener(on_press = on_press, on_release = on_release) as listener:
 
 #ByExplorer :)
 #insta: ozekk35
+#NOT: kayıt.txt dosyası oluşturmayı unutmayınız.
